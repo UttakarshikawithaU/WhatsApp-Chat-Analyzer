@@ -42,7 +42,7 @@ This project performs sentiment analysis on WhatsApp chat data using the DistilB
 
 1. Sentiment Analysis:
    - The `sentiment_analysis.py` script performs sentiment analysis on WhatsApp chat data.
-   - Adjust the parameters, such as positive and negative thresholds, as needed.
+   - Adjust the parameters, such as positive and negative thresholds, as needed by ###the user.
 
 2. Data Visualization:
    - The `data_visualization.py` script generates various plots for better understanding of the chat data.
